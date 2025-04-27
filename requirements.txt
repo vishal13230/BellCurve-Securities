@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+scipy
+plotly
+scikit-learn
+google-generativeai
+# Add matplotlib seaborn if you prefer them over plotly for some charts
+# Add reportlab or fpdf for PDF generation if implementing download
