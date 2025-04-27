@@ -145,7 +145,6 @@ You’ll have:
 
 "BellCurve Securities — Intelligent investing, optimized for you."
 
-API = AIzaSyAhj7h3kHpXeX75h_7ldc1tGgPMMxV7mJQ
 
 Would you also like me to draft **the user flow** (step-by-step how a typical user session would work)?  
 That will make it even easier for you to build or even pass to a developer! 🚀  
